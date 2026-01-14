@@ -48,7 +48,7 @@ public class EncapsulationExample {
         human.setName("Navin");
 
        // System.out.println(human.getAge()+" "+human.getName());
-
+        
 
 
         

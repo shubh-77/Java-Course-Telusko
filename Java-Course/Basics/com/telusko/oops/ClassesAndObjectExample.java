@@ -61,3 +61,9 @@ public class ClassesAndObjectExample {
         System.out.println(comp.getMePen(5));
     }
 }
+
+//Camel Case Notation
+//1. class and interface-> should start with capital letter(Calc,Runnable)
+//2. variable and method -> should start with small letter(markrs(),show())
+//3. Constants -> should be in all capital letters(PIE,BRAND_NAME)
+
