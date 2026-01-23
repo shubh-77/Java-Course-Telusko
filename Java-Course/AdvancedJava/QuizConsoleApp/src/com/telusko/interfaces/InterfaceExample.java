@@ -58,3 +58,23 @@ public static void main(String[] args) {
 
 }
 }
+
+
+
+
+/*
+
+Types of Interface
+1. Normal
+2. Functional - Single Abstract Method (SAM)
+3. Marker
+
+
+
+
+
+
+
+
+
+*/
