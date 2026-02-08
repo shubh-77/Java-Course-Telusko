@@ -33,7 +33,7 @@ public static void main(String[] args) {
 
 
     //print sum of even numbers in list
-    System.out.println(numbers.stream().filter(n->n%2==0).mapToInt(n->n).sum());
+    System.out.println(numbers.stream().filter(n->n%2==0).reduce(0,(n1,n2)->n1+n2));
 
 
     //print max number in list
